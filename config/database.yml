@@ -1,4 +1,4 @@
-# SQLite version 3.x
+#  SQLite version 3.xdasfdasff
 #   gem install sqlite3-ruby (not necessary on OS X Leopard)
 development:
   adapter: sqlite3
